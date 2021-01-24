@@ -1,0 +1,2 @@
+import{S as s,i as a,s as t,e as r,t as e,c as o,a as c,b as u,d as n,g as l,h as i,n as b}from"./start-ebc9e8a6.js";function d(s){let a,t;return{c(){a=r("h1"),t=e("About")},l(s){a=o(s,"H1",{});var r=c(a);t=u(r,"About"),r.forEach(n)},m(s,r){l(s,a,r),i(a,t)},p:b,i:b,o:b,d(s){s&&n(a)}}}export default class extends s{constructor(s){super(),a(this,s,null,d,t,{})}}
+//# sourceMappingURL=about-207257e2.js.map

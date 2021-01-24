@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"
+  publish = "dist/"
+  functions = "functions/"
+
+[dev]
+  framework = "#custom"
+  command = "browser-sync start --server 'dist/' --port 3003 --watch --no-open"
+  targetPort = 3003
